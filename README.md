@@ -2,5 +2,5 @@
 精简、图标替换版 By LindoEri<br>
 
 包括两个图层：UPC/V、Scout Controler<br>
-黑色实心五角星代表已UPC、UPV；黑边空心五角星代表仅UPV；橙色圈代表已获得scout controler<br>
+黑色实心五角星代表已UPC、UPV；黑边空心五角星代表仅UPV；橙色圈代表已获得Scout Controler<br>
 <img src="preview.png"/><br>
